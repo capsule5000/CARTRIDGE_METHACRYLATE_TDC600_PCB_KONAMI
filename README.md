@@ -1,6 +1,6 @@
 # CARTRIDGE_METHACRYLATE_TDC600_PCB_KONAMI
 
-This methacrylate cartridge is specially designed for the TDC600 PCB Konami PCB . It has all the custom cutouts for the floppy disk interface and jumper settings accessible. It also incorporates the STL file to 3D print the separators that close the cartridge
+This methacrylate cartridge is specially designed for the TDC600 PCB Konami . It has all the custom cutouts for the floppy disk interface and jumper settings accessible. It also incorporates the STL file to 3D print the separators that close the cartridge
 
 # IMAGES
 

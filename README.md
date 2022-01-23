@@ -7,3 +7,7 @@ This methacrylate cartridge is specially designed for the TDC600 PCB Konami . It
 ![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_TDC600_PCB_KONAMI/blob/main/Images/front1_tdc600.png)
 
 ![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_TDC600_PCB_KONAMI/blob/main/Images/rear1_tdc600.png)
+
+![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_TDC600_PCB_KONAMI/blob/main/Images/case1.png)
+
+![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_TDC600_PCB_KONAMI/blob/main/Images/case2.png)
